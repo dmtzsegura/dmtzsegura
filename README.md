@@ -1,16 +1,42 @@
-## Hi there 👋
 
 <!--
-**dmtzsegura/dmtzsegura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Daniela 👋
 
-Here are some ideas to get you started:
+🎓 Software Engineering Student (3rd term)  
+💼 Business Administration Master’s | 4+ years in management  
+🐍 Currently learning Python  
+🔐 Interested in Backend Development & Cybersecurity  
+⚙️ Passionate about Automation & Problem Solving  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+# 🚀 About Me
+
+I’m transitioning into tech after a professional background in business and management.  
+Currently building strong foundations in programming and backend development, with a growing interest in cybersecurity and automation.
+
+I’m actively looking for opportunities to gain hands-on experience, collaborate on projects, and participate in hackathons.
+
+---
+
+# 📚 Currently Learning
+
+- Python fundamentals  
+- Data structures & algorithms  
+- Backend development basics  
+- Version control with Git  
+
+---
+
+# 🎯 2026 Goals
+
+- Contribute to my first collaborative project  
+- Participate in a hackathon  
+- Build backend-focused portfolio projects  
+- Strengthen cybersecurity fundamentals  
+
+---
+
+✨ Always learning. Always improving myself.
+
 -->
