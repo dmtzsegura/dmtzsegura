@@ -51,7 +51,7 @@
 
 
 
-<h2🎯 2026 Goals</h2>
+<h2>🎯 2026 Goals</h2>
 
 <ul>
 <li>🤝🏼Contribute to my first collaborative project</li>
@@ -67,4 +67,4 @@
 ✨ Always learning. Always improving myself.
 </p>
 
--->
+
