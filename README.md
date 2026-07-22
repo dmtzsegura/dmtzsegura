@@ -2,7 +2,7 @@
 <!--
 # Hi there, I'm Daniela 👋
 
-🎓 Software Engineering Student (3rd term)  
+🎓 Software Engineering Student (5rd term)  
 💼 Business Administration Master’s | 4+ years in management  
 🐍 Currently learning Python  
 🔐 Interested in Backend Development & Cybersecurity  
