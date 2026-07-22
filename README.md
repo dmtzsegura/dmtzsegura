@@ -8,6 +8,7 @@
 🔐 Interested in Backend Development & Cybersecurity  
 ⚙️ Passionate about Automation & Problem Solving  
 
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 ---
 
 # 🚀 About Me
